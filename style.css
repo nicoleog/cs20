@@ -1,0 +1,96 @@
+
+.MainBody {
+    position:relative;
+    min-height: 100%;
+    width: 100%;
+    max-width: 2000px;
+    
+}
+.Header {
+    background-image:url("law_image.jpeg");
+    min-height: 35%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.HeaderTitle {
+
+    color: #feb303;
+    text-align: center;
+    font-size: 50px;
+    display: inline-block;
+    padding: 12px;
+    margin-top: 200;
+    background: rgba(185, 25, 30, 0.3);
+    background-position: center;
+    
+}
+
+.title {
+    position: absolute;
+    left: 2%;
+    text-align: center;
+    color: #feb303;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.Nav li{
+     display: inline;
+     color: white;
+     padding: 5%;
+    
+}
+.Nav a{
+     color: #feb303;
+     text-decoration: none;
+     font-size: 30px;
+     
+}
+.Nav {
+     background: rgba(185, 25, 30, 0.75);
+     padding: .01px;
+     text-align: center;
+     background-position: center;
+     
+}
+
+.footer {
+
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background-position: center;
+    background: rgba(185, 25, 30, 0.75);
+    padding: 20px;
+    color: #feb303;
+    font-size: 20px;
+    width: 100%;
+    max-width: 2000px;
+
+}
+
+.text {
+    width:95%;
+    margin-left: 2%;
+    text-align:center;
+    color: #feb303;
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    
+}
+
+img {
+    
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
